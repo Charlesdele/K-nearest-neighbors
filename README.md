@@ -10,7 +10,7 @@ In this project, we will use the KNN algorithm to solve a **classification probl
 
 <br/>
 
-## Installation
+## Set up
 
 Download the 3 csv files _(data, preTest, finalTest)_ and place them in one folder somewhere.
 
